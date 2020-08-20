@@ -1,3 +1,3 @@
 # aluna-impacta
-Exemplo de criação de um repositorio do GitHub
-Michele Souza Sato
+Exemplo de criação de um repositorio do GitHub<br>
+Michele Souza Sato<br>
